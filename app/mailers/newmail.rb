@@ -1,0 +1,2 @@
+class Newmail < ApplicationMailer
+end
